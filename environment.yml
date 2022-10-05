@@ -20,6 +20,8 @@ dependencies:
   - sqlite=3.36.0
   - statsmodels=0.13.1
   - yaml=0.2.5
+  - hvplot
+  - pyarrow
   - pip:
     - dask==2021.9.1
     - prefect==0.15.9
@@ -30,3 +32,4 @@ dependencies:
     - lightgbm
     - catboost
     - 'dvc[gdrive]'
+    - 'prefect[viz]'
