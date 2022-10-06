@@ -5,6 +5,7 @@
 
 Date: Wednesday, October 12th from 14:00 to 18:00 South African Standard Time
 
+
 ## Table of Contents
 1. [Overview](#1.-Overview)
 2. [Outline for the Session](#2.-Outline-for-the-Session)
@@ -13,6 +14,7 @@ Date: Wednesday, October 12th from 14:00 to 18:00 South African Standard Time
 5. [Resources](#5.-Resources)
 6. [Feedback 😃](#6.-Feedback-😃)
 
+Note: All files will be availble a day before the event so if you clone this repo beforehand (please do), you will want to do a `git pull` a day or so prior to the event.
 
 ## 1. Overview
 
