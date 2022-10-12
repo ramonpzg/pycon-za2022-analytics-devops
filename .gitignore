@@ -1,4 +1,9 @@
 .ipynb_checkpoints/
-notebooks
 i-testing-dg
 testing
+data/
+src.egg-info
+build
+archive
+__pycache__/
+dist
