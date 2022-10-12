@@ -1,3 +1,9 @@
 .ipynb_checkpoints/
 i-testing-dg
 testing
+data/
+src.egg-info
+build
+archive
+__pycache__/
+dist

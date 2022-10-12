@@ -3,6 +3,7 @@
 ## A Workshop Organised for PyCon South Africa 2022
 
 
+
 Date: Wednesday, October 12th from 14:00 to 18:00 South African Standard Time
 
 
@@ -53,10 +54,9 @@ The time budgeted for this tutorial is 4 hours including breaks. We will follow,
    - Dashboard Pipeline
    - Exercise (7-min).
 7. **10-minute break**
-8. **DevOps Recipe 2: Automating Your Infrastructure (~45 minutes)**
-   - Infrastructure as blocks of Python code
-   - Deploying a Data Pipeline
-   - Deploying a Dashboard
+8. **DevOps Recipe 2: Continuous Automation (~45 minutes)**
+   - Continuous Testing
+   - Continuous Machine Learning
    - Exercise (7-min).
 
 
@@ -67,6 +67,7 @@ The time budgeted for this tutorial is 4 hours including breaks. We will follow,
 - **(GTH)** While it is not necessary to have any knowledge of data analytics libraries, some experience with pandas, NumPy, matplotlib and scikit-learn, a bit of experience with these libraries would be very beneficial throughout this tutorial.
 - **(P)** Participants should have at least 5 GB of free space in their computers.
 - **(GTH)** While it is not required to have experience with integrated development environments like VS Code or Jupyter Lab, this would be very beneficial for the session.
+- **(P)** You will need a GitHub account and you will also need to have git set up in your local computer. Here is a great [guide to get git setting it up](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup).
 
 
 ## 4. Setup
